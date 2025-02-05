@@ -1,8 +1,13 @@
-.list-container {
+.app-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.list-container{
+  list-style-type: none;
+  padding: 0;
 }
 
 .title {
